@@ -1,14 +1,34 @@
 {
-  "posts": [
-    { "id": 1, "firstName": "Bar" },
-    { "id": 2, "lastName": "Horing" },
-    { "id": 3, "lastName": "Amir" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "questions": [
+    {
+      "id": 1,
+      "content": "Which two metals is pewter made from?",
+      "options": [
+        "Tin and lead",
+        "Lead and coper",
+        "Lead and gold",
+        "Tin and gold"
+      ]
+    },
+    {
+      "id": 2,
+      "content": "What is entomophobia?",
+      "options": [
+        "An irrational fear of insects",
+        "Lead and coper",
+        "A light sherry",
+        "Horse racing."
+      ]
+    },
+    {
+      "id": 3,
+      "content": "Alfred, an ancient King of Wessex, is famous for burning what?",
+      "options": [
+        "Cakes",
+        "Lead and coper",
+        "Bicycle",
+        "Strawberries and cream"
+      ]
+    }
+  ]
 }
