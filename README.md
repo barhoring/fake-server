@@ -1,6 +1,6 @@
 # fake-server
 
-A tiny Trivia 🤔 server.
+A tiny trivia 🤔 server.
 Served with [My JSON Server](https://github.com/pandao/editor.md)
 
 in dev tools or .js file
@@ -25,3 +25,5 @@ results to
       ]
     }
 ```
+
+The first element in options is the correct answer, so shuffle options.
