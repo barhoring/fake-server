@@ -1,6 +1,6 @@
 # fake-server
 
-Trivia 🤔 .
+A tiny Trivia 🤔 server.
 Served with [My JSON Server](https://github.com/pandao/editor.md)
 
 in dev tools or .js file
